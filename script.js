@@ -1,5 +1,6 @@
 const calculateButton = document.getElementById('calculate');
         calculateButton.addEventListener('click', calculate);
+// little change
 
         const convertButton = document.getElementById('convert');
         convertButton.addEventListener('click', convertResult);
